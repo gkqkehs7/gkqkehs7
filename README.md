@@ -1,4 +1,4 @@
-👋 nodejs 개발자가 되고 싶은 대학생<br>
+### 👋 introduce
 <a href="https://gkqkehs7.tistory.com">
 <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white" />
 </a>
