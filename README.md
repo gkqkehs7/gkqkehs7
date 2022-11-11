@@ -1,13 +1,7 @@
 ### 👋 introduce
 인하대학교 컴퓨터공학과 재학생
-<p align="left">
-<a href="https://gkqkehs7.tistory.com">
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white" />
-</a>
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gkqkehs7)](https://solved.ac/gkqkehs7)
-</p>
 
 ### 💪Skills
 <p align="left">
@@ -29,3 +23,7 @@
 <img src="https://img.shields.io/badge/Vultr-007BFC?style=flat-square&logo=vultr&logoColor=white" />
 </p>
 
+### contact
+<a href="https://gkqkehs7.tistory.com">
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white" />
+</a>
