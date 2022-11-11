@@ -2,9 +2,6 @@
 <a href="https://gkqkehs7.tistory.com">
 <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white" />
 </a>
-<a href="https://gkqkehs7.tistory.com">
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white" />
-</a>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gkqkehs7)](https://solved.ac/gkqkehs7)
 
@@ -27,7 +24,4 @@
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=s3&logoColor=white" />
 <img src="https://img.shields.io/badge/Vultr-007BFC?style=flat-square&logo=vultr&logoColor=white" />
 </p>
-
-### 🤜algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkqkehs7)](https://solved.ac/gkqkehs7)
 
