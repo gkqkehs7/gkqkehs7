@@ -5,5 +5,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkqkehs7)](https://solved.ac/gkqkehs7/)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={gkqkehs7})](https://solved.ac/{handle})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkqkehs7)](https://solved.ac/gkqkehs7)
