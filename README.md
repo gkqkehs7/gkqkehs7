@@ -1,4 +1,4 @@
-### 👋 introduce
+### 👋 Introduce
 인하대학교 컴퓨터공학과 재학생<br>
 node.js가 spring보다 더 쓰이는 그날까지<br> 
 
@@ -25,7 +25,7 @@ node.js가 spring보다 더 쓰이는 그날까지<br>
 <img src="https://img.shields.io/badge/Vultr-007BFC?style=flat-square&logo=vultr&logoColor=white" />
 </p>
 
-### contact
+### 📚Study log
 <a href="https://gkqkehs7.tistory.com">
 <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white" />
 </a>
