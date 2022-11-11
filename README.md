@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Vultr-007BFC?style=flat-square&logo=vultr&logoColor=white" />
 </p>
 
-<div>
+<div float="left">
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkqkehs7&layout=compact"><br><br>
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=gkqkehs7&show_icons=true">
 </div>
