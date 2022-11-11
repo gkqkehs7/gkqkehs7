@@ -1,5 +1,5 @@
 ## 💪Skills
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=css3&logoColor=white" />  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=aws&logoColor=white" />
