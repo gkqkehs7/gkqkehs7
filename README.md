@@ -1,6 +1,6 @@
 ### 👋 Introduce
-🏛 inha university computer science<br>
-👤 node.js developer<br> 
+🏛 Inha university computer science<br>
+👤 Javascript developer<br> 
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkqkehs7)](https://solved.ac/gkqkehs7)
