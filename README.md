@@ -1,9 +1,9 @@
 ### 👋 Introduce
-inha university computer science<br>
-node.js developer<br> 
+🏛 inha university computer science<br>
+👤 node.js developer<br> 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gkqkehs7)](https://solved.ac/gkqkehs7)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkqkehs7)](https://solved.ac/gkqkehs7)
 
 ### 💪Skills
 <p align="left">
