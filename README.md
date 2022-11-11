@@ -1,4 +1,5 @@
 ### 👋 introduce
+인하대학교 컴퓨터
 <p align="left">
 <a href="https://gkqkehs7.tistory.com">
 <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white" />
