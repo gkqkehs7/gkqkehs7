@@ -1,5 +1,6 @@
-### introduce
+### 👋introduce
 node.js 개발자가 되고 싶은 대학생
+인하대학교 컴퓨터공학과 
 
 ### 💪Skills
 <p align="left">
