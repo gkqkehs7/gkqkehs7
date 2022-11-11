@@ -1,3 +1,6 @@
+### introduce
+node.js 개발자가 되고 싶은 대학생
+
 ### 💪Skills
 <p align="left">
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white" />
