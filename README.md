@@ -5,8 +5,6 @@ node.js가 spring보다 더 쓰이는 그날까지<br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gkqkehs7)](https://solved.ac/gkqkehs7)
 
-<br>
-
 ### 💪Skills
 <p align="left">
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -26,8 +24,6 @@ node.js가 spring보다 더 쓰이는 그날까지<br>
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=s3&logoColor=white" />
 <img src="https://img.shields.io/badge/Vultr-007BFC?style=flat-square&logo=vultr&logoColor=white" />
 </p>
-
-<br>
 
 ### 📚Study log
 <a href="https://gkqkehs7.tistory.com">
