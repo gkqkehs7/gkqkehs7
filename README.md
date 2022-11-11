@@ -1,5 +1,4 @@
-### 👋introduce
-
+👋 nodejs 개발자가 되고 싶은 대학생
 
 ### 💪Skills
 <p align="left">
