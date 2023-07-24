@@ -26,6 +26,5 @@
 </p>
 
 ### 📚Study log
-<a href="https://gkqkehs7.tistory.com">
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white" />
-</a>
+[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@gkqkehs7)](https://velog.io/@gkqkehs7)
+
