@@ -2,9 +2,6 @@
 🏛 Inha university computer science<br>
 👤 Javascript developer<br> 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkqkehs7)](https://solved.ac/gkqkehs7)
-
 ### 💪Skills
 <p align="left">
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white" />
