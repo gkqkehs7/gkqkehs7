@@ -1,9 +1,5 @@
 ### 👋 Introduce
-🏛 Inha university computer science<br>
-👤 Javascript developer<br> 
-
-### 
-https://absorbing-archduke-229.notion.site/57fe2544a7b740c69181e5d4ec18744e?pvs=4
+👤 [resume](https://absorbing-archduke-229.notion.site/57fe2544a7b740c69181e5d4ec18744e?pvs=4)
 
 ### 💪 Skills
 <p align="left">
