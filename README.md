@@ -3,7 +3,10 @@
 
 ### 💪 Skills
 <p align="left">
-<img src="https://img.shields.io/badge/NestJs-#E0234E?style=for-the-badge&logo=NestJs&logoColor=white">
+<img src="https://img.shields.io/badge/Nodejs-#339933?style=for-the-badge&logo=Nodejs&logoColor=white">
+<img src="https://img.shields.io/badge/Nestjs-#E0234E?style=for-the-badge&logo=Nestjs&logoColor=white">
+<img src="https://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-41BADB?style=flat-square&logo=react&logoColor=white" />
