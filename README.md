@@ -7,7 +7,6 @@
 
 
 ### 💪 Language & Skill
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkqkehs7&layout=compact&theme=tokyonight)
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
