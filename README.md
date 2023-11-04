@@ -1,16 +1,15 @@
 ### 👋 Introduce
 👤 [resume](https://absorbing-archduke-229.notion.site/57fe2544a7b740c69181e5d4ec18744e?pvs=4)
 
-### 💪 Skills
+### 💪 Language & Skill
+<p align="left">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+  
 <p align="left">
 <img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=Nodejs&logoColor=white">
 <img src="https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=Nestjs&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-41BADB?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 </p>
 
 <p align="left">
