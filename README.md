@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=Nestjs&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkqkehs7&layout=compact&theme=tokyonight)
 
 ### 📚Study log
