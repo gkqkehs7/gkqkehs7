@@ -1,5 +1,3 @@
-<div align="center">
-  
 ### 👋 About me
 [![Resume](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://absorbing-archduke-229.notion.site/57fe2544a7b740c69181e5d4ec18744e?pvs=4)
 
@@ -23,5 +21,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkqkehs7&layout=compact&theme=tokyonight)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkqkehs7&show_icons=true&theme=radical)
-</div>
