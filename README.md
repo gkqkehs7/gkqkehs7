@@ -15,6 +15,7 @@
 
 
 ### 📚Study log
-[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@gkqkehs7)](https://velog.io/@gkqkehs7)
+[![Velog Badge](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=React&logoColor=white)](https://velog.io/@gkqkehs7)
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkqkehs7&show_icons=true&theme=radical)
