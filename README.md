@@ -5,7 +5,7 @@
 [![Velog Badge](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gkqkehs7)
 <br/>
 
-
+ 
 ### 💪 Language & Skill
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
