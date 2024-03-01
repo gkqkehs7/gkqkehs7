@@ -17,6 +17,5 @@
 <img src="https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=Nestjs&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </p>
-
-![](./profile-3d-contrib/profile-green-animate.svg) 
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
