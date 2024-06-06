@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=Nodejs&logoColor=white">
 <img src="https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=Nestjs&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
- <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=ReactNative&logoColor=white">
+ <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </p>
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
