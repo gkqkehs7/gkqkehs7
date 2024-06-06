@@ -22,3 +22,5 @@
 </p>
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
+
+![gkqkehs7's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkqkehs7&show_icons=true&theme=radical)
